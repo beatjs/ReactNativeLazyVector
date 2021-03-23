@@ -1,0 +1,16 @@
+PODS:
+  - ReactNativeLazyVector (0.1.0)
+
+DEPENDENCIES:
+  - ReactNativeLazyVector (from `../`)
+
+EXTERNAL SOURCES:
+  ReactNativeLazyVector:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  ReactNativeLazyVector: 4a502c92fb3db653bf18d87e2ae0ef16f79f0be6
+
+PODFILE CHECKSUM: 22c081286fdb2dcd1c8b93c623c78ebe1f0a037b
+
+COCOAPODS: 1.10.1
